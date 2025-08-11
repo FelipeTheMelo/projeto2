@@ -1,14 +1,10 @@
 package br.com.melol.domain;
 
-import java.math.BigDecimal;
-
 import anotacao.TipoChave;
 import br.com.melol.dao.Persistente;
 
-/**
- * @author rodrigo.pires
- *
- */
+import java.math.BigDecimal;
+
 public class Produto implements Persistente {
 
     @TipoChave("getCodigo")

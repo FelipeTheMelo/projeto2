@@ -13,10 +13,6 @@ import java.util.Collection;
 
 import static org.junit.Assert.assertTrue;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ProdutoDAOTest {
 
     private IProdutoDAO produtoDao;

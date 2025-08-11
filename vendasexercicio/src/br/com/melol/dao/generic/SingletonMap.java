@@ -3,10 +3,6 @@ package br.com.melol.dao.generic;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Classe Singleton que garante que o <code>map</code> será único em toda a vita da aplicação.
- *
- */
 public class SingletonMap {
 
     private static SingletonMap singletonMap;

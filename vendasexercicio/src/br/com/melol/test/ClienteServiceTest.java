@@ -12,10 +12,6 @@ import org.junit.Test;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ClienteServiceTest {
 
     private IClienteService clienteService;
